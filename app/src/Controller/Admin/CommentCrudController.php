@@ -43,8 +43,6 @@ class CommentCrudController extends AbstractCrudController
         yield TextareaField::new('text')->hideOnIndex();
         yield TextField::new('photoFilename');
 
-        dump(range(date('Y'), date('Y', strtotime('+5 years'))));
-
         $createdAt = DateTimeField::new('createdAt')->setFormTypeOptions([
             'years' => range(date('Y'), date('Y', strtotime('+5 years'))),
         ])->renderAsChoice();

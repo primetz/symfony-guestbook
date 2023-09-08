@@ -16,3 +16,6 @@
 * [Видеокурс по Doctrine на SymfonyCasts](https://symfonycasts.com/screencast/symfony-doctrine/install)
 * [Работа с ассоциациями/связями в Doctrine](https://symfony.com/doc/current/doctrine/associations.html)
 * [Документация DoctrineMigrationsBundle](https://symfony.com/doc/current/bundles/DoctrineMigrationsBundle/index.html)
+* [Документация EasyAdmin](https://symfony.com/bundles/EasyAdminBundle/4.x/index.html)
+* [Справочник по конфигурированию Symfony](https://symfony.com/doc/current/reference/configuration/framework.html)
+* [Магические методы в PHP](https://www.php.net/manual/en/language.oop5.magic.php)

@@ -12,3 +12,7 @@
 * [Компонент HttpFoundation](https://symfony.com/doc/current/components/http_foundation.html)
 * [Методика атаки через межсайтовый скриптинг (Cross-Site Scripting или XSS)](https://owasp.org/www-community/attacks/xss/)
 * [Шпаргалка по маршрутизации в Symfony](https://github.com/andreia/symfony-cheat-sheets/blob/master/Symfony4/routing_en_part1.pdf)
+* [Базы данных и Doctrine ORM в приложениях Symfony](https://symfony.com/doc/current/doctrine.html)
+* [Видеокурс по Doctrine на SymfonyCasts](https://symfonycasts.com/screencast/symfony-doctrine/install)
+* [Работа с ассоциациями/связями в Doctrine](https://symfony.com/doc/current/doctrine/associations.html)
+* [Документация DoctrineMigrationsBundle](https://symfony.com/doc/current/bundles/DoctrineMigrationsBundle/index.html)

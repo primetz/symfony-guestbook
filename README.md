@@ -19,3 +19,8 @@
 * [Документация EasyAdmin](https://symfony.com/bundles/EasyAdminBundle/4.x/index.html)
 * [Справочник по конфигурированию Symfony](https://symfony.com/doc/current/reference/configuration/framework.html)
 * [Магические методы в PHP](https://www.php.net/manual/en/language.oop5.magic.php)
+* [Документация по Twig](https://twig.symfony.com/doc/3.x/)
+* [Создание и использование шаблонов в Symfony-приложениях](https://symfony.com/doc/current/templates.html)
+* [Учебный видеоролик по Twig на SymfonyCasts](https://symfonycasts.com/screencast/symfony/twig-recipe)
+* [Функции и фильтры Twig доступные только в Symfony](https://symfony.com/doc/current/reference/twig_reference.html)
+* [Базовый контроллер AbstractController](https://symfony.com/doc/current/controller.html#the-base-controller-classes-services)

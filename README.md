@@ -24,3 +24,6 @@
 * [Учебный видеоролик по Twig на SymfonyCasts](https://symfonycasts.com/screencast/symfony/twig-recipe)
 * [Функции и фильтры Twig доступные только в Symfony](https://symfony.com/doc/current/reference/twig_reference.html)
 * [Базовый контроллер AbstractController](https://symfony.com/doc/current/controller.html#the-base-controller-classes-services)
+* [Рабочий процесс запроса-ответа в приложениях Symfony](https://symfony.com/doc/current/components/http_kernel.html#the-workflow-of-a-request)
+* [Встроенные HTTP-события в Symfony](https://symfony.com/doc/current/reference/events.html)
+* [Встроенные события Symfony Console](https://symfony.com/doc/current/components/console/events.html)

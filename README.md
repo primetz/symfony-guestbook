@@ -27,3 +27,7 @@
 * [Рабочий процесс запроса-ответа в приложениях Symfony](https://symfony.com/doc/current/components/http_kernel.html#the-workflow-of-a-request)
 * [Встроенные HTTP-события в Symfony](https://symfony.com/doc/current/reference/events.html)
 * [Встроенные события Symfony Console](https://symfony.com/doc/current/components/console/events.html)
+* [Система событий Doctrine (обратные вызовы и обработчики событий жизненного цикла, обработчики сущностей и подписчики жизненного цикла)](https://symfony.com/doc/current/doctrine/events.html)
+* [Документация компонента String](https://symfony.com/doc/current/components/string.html)
+* [Сервис-контейнер](https://symfony.com/doc/current/service_container.html)
+* [Шпаргалка по сервисам Symfony](https://github.com/andreia/symfony-cheat-sheets/blob/master/Symfony4/services_en_42.pdf)

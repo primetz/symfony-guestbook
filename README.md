@@ -55,3 +55,8 @@
     * [Параметры конфигурации Symfony](https://symfony.com/doc/current/configuration.html#configuration-parameters)
     * [Правила Symfony-валидации](https://symfony.com/doc/current/validation.html#basic-constraints)
     * [Шпаргалка по Symfony-формам](https://github.com/andreia/symfony-cheat-sheets/blob/master/Symfony2/how_symfony2_forms_works_en.pdf)
+11. [Защита административной панели](https://symfony.com/doc/6.2/the-fast-track/ru/15-security.html)
+    * [Документация по Symfony Security](https://symfony.com/doc/current/security.html)
+    * [Обучающие видеоролики по безопасности на SymfonyCasts](https://symfonycasts.com/screencast/symfony-security)
+    * [Руководство по созданию формы входа в Symfony-приложениях](https://symfony.com/doc/current/security/form_login_setup.html)
+    * [Шпаргалка по безопасности в Symfony](https://github.com/andreia/symfony-cheat-sheets/blob/master/Symfony4/security_en_44.pdf)

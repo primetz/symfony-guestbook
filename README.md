@@ -60,3 +60,7 @@
     * [Обучающие видеоролики по безопасности на SymfonyCasts](https://symfonycasts.com/screencast/symfony-security)
     * [Руководство по созданию формы входа в Symfony-приложениях](https://symfony.com/doc/current/security/form_login_setup.html)
     * [Шпаргалка по безопасности в Symfony](https://github.com/andreia/symfony-cheat-sheets/blob/master/Symfony4/security_en_44.pdf)
+12. [Защита от спама с помощью API](https://symfony.com/doc/6.2/the-fast-track/ru/16-spam.html)
+    * [Документация компонента HttpClient](https://symfony.com/doc/current/components/http_client.html)
+    * [Процессоры переменных окружения](https://symfony.com/doc/current/configuration/env_var_processors.html)
+    * [Шпаргалка по компоненту Symfony HttpClient](https://github.com/andreia/symfony-cheat-sheets/blob/master/Symfony4/httpclient_en_43.pdf)
